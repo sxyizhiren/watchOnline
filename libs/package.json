@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bufferhelper": ">=0.1.1",
+    "cheerio": ">=0.10.6",
+    "iconv-lite": ">=0.2.7",
+	"tracer": ">=0.5.1",
+	"wechat": ">=0.4.4",
+	"express": ">=3.2.4",
+	"redis":">=0.8.3"
+  }
+  
+}
